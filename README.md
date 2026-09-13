@@ -9,7 +9,7 @@ Selection sort works by repeatedly finding the smallest remaining element in the
 ## Usage
 
 ```python
-from selection_sort import selection_sort
+from main import selection_sort
 
 nums = [64, 25, 12, 22, 11]
 sorted_nums = selection_sort(nums)
